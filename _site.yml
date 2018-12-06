@@ -1,0 +1,5 @@
+name: "Pull requests"
+output_dir: docs
+output:
+  html_document:
+    css: air.css
