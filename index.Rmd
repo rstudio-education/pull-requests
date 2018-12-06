@@ -46,6 +46,8 @@ To add a recipe or fix a typo in the Tidyverse cookbook, use a pull request. Her
     
 Congratulations! You have submitted your pull request. Github will ping me and I'll review your edits. 
 
+<br>
+
 ## Update a pull request
 
 If I ask you to make changes, you will need to update your pull request. To do this:
